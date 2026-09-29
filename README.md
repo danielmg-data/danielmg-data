@@ -1,6 +1,6 @@
 # Hola, soy Daniel Medina Guzmán 👋
 
-### Analista de Datos Junior · Biólogo e investigador
+### Analista de Datos · Biólogo e investigador
 
 Biólogo e investigador con experiencia en el análisis de datos bio-ambientales para consultorías y conservación, y en la dirección y docencia de instituciones educativas con enfoque STEM. Hoy combino ese rigor científico con SQL, Python y Excel para responder preguntas de negocio con datos.
 
