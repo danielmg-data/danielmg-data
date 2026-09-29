@@ -4,7 +4,7 @@
 
 Con experiencia en el análisis de datos bio-ambientales para consultorías y conservación, y en la dirección y docencia de instituciones educativas con enfoque STEM. Hoy combino ese rigor científico con SQL, Python y Excel para responder preguntas de negocio con datos.
 
-Estoy formándome como analista de datos en el **Bootcamp de TripleTen** y busco mi primera oportunidad en analítica de datos.
+Me he formado como analista de datos en el **Bootcamp de TripleTen** y busco mi primera oportunidad en analítica de datos.
 
 ---
 
