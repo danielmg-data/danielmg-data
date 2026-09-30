@@ -43,7 +43,10 @@ Calculé ingresos, costos, margen y ROI de campañas por país (AdventureWorks).
 
 Consolidé casi 96 mil registros de ventas semanales y construí un dashboard interactivo por departamento. **Tres departamentos concentran el 36.4% de las ventas de 2012.** Señalé además que el KPI de ventas por m² no permite juzgar el aprovechamiento del espacio de cada departamento.
 
-<!-- Cuando esté listo: añadir aquí el proyecto de fenología reproductiva y precipitación (Reserva Taricaya), con Python, SQL y Power BI. -->
+### 🌺 [Fenología reproductiva y precipitación en la Amazonía (Reserva Taricaya)](https://github.com/danielmg-data/taricaya-fenologia-precipitacion)
+`Python` · `SQL` · `Power BI` · `Jupyter`
+
+Reanálisis de los datos de campo de un proyecto botánico que coordiné como investigador principal en la Amazonía peruana (Projects Abroad, 2008-2009): 217 especies monitoreadas durante un año frente al clima. **El pico de floración coincide con el mes más lluvioso, pero con 12 meses de datos esa relación no es estadísticamente significativa** (ρ = 0.20, p = 0.54). Documenté el hallazgo real, sin sobre-interpretarlo.
 
 ---
 
