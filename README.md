@@ -28,25 +28,30 @@ Me he formado como analista de datos en el **Bootcamp de TripleTen** y busco mi 
 
 Cada proyecto tiene su README con objetivo, metodología, resultados y **limitaciones**.
 
-### 🚦 [Movilidad urbana y productividad económica en Latinoamérica](https://github.com/danielmg-data/movilidad-urbana-productividad-latam)
-`Python` · `Pandas` · `Seaborn` · `Jupyter`
+### 🌺 [Fenología reproductiva y precipitación en la Amazonía (Reserva Taricaya)](https://github.com/danielmg-data/taricaya-fenologia-precipitacion)
+`Python` · `SQL` · `Power BI` · `Jupyter`
 
-¿Las ciudades más congestionadas son también las menos productivas? Uní datos de tráfico (TomTom) y de economía urbana (OECD) de 15 ciudades latinoamericanas. **No encontré una relación clara entre congestión y PIB per cápita**; el desempleo fue la variable más asociada al PIB. Bogotá y Lima combinan congestión alta con ingreso medio-bajo.
+Reanálisis de los datos de campo de un proyecto botánico que coordiné como investigador principal en la Amazonía peruana (Projects Abroad, 2008-2009): 217 especies monitoreadas durante un año frente al clima. **El pico de floración coincide con el mes más lluvioso, pero con 12 meses de datos esa relación no es estadísticamente significativa** (ρ = 0.20, p = 0.54). Documenté el hallazgo real, sin sobre-interpretarlo.
+
+### 🌿 [Biodiversidad vegetal de Perú con datos de GBIF](https://github.com/danielmg-data/biodiversidad-plantas-peru-gbif)
+`Python` · `SQL` · `API GBIF` · `Jupyter`
+
+Panorama de 1.8 millones de registros de plantas de Perú, consultados en vivo a la API pública de GBIF. **Arecaceae domina los registros no por mayor biodiversidad real, sino por un estudio danés que muestreó 500 transectos solo de palmeras.** El pico de 2006-2008 resultó ser la publicación masiva de ese estudio y del herbario del Jardín Botánico de Missouri — la misma institución donde entrené como biólogo en 2007.
 
 ### 💰 [Rentabilidad financiera por país con SQL](https://github.com/danielmg-data/rentabilidad-financiera-sql-adventureworks)
 `SQL` · `PostgreSQL` · `KPIs`
 
 Calculé ingresos, costos, margen y ROI de campañas por país (AdventureWorks). **El margen es parecido entre países (42%–45%), pero el ROI va de 17% a 76%**: como el gasto en campañas es similar y las ventas no, el ROI sigue el tamaño de cada mercado. Documenté también por qué ese ROI no es neto.
 
+### 🚦 [Movilidad urbana y productividad económica en Latinoamérica](https://github.com/danielmg-data/movilidad-urbana-productividad-latam)
+`Python` · `Pandas` · `Seaborn` · `Jupyter`
+
+¿Las ciudades más congestionadas son también las menos productivas? Uní datos de tráfico (TomTom) y de economía urbana (OECD) de 15 ciudades latinoamericanas. **No encontré una relación clara entre congestión y PIB per cápita**; el desempleo fue la variable más asociada al PIB. Bogotá y Lima combinan congestión alta con ingreso medio-bajo.
+
 ### 🛒 [Eficiencia de ventas por departamento (Walmart)](https://github.com/danielmg-data/eficiencia-ventas-walmart-excel)
 `Excel` · `Google Sheets` · `XLOOKUP` · `Tablas dinámicas`
 
 Consolidé casi 96 mil registros de ventas semanales y construí un dashboard interactivo por departamento. **Tres departamentos concentran el 36.4% de las ventas de 2012.** Señalé además que el KPI de ventas por m² no permite juzgar el aprovechamiento del espacio de cada departamento.
-
-### 🌺 [Fenología reproductiva y precipitación en la Amazonía (Reserva Taricaya)](https://github.com/danielmg-data/taricaya-fenologia-precipitacion)
-`Python` · `SQL` · `Power BI` · `Jupyter`
-
-Reanálisis de los datos de campo de un proyecto botánico que coordiné como investigador principal en la Amazonía peruana (Projects Abroad, 2008-2009): 217 especies monitoreadas durante un año frente al clima. **El pico de floración coincide con el mes más lluvioso, pero con 12 meses de datos esa relación no es estadísticamente significativa** (ρ = 0.20, p = 0.54). Documenté el hallazgo real, sin sobre-interpretarlo.
 
 ---
 
